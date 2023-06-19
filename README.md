@@ -42,6 +42,6 @@ Format:
 [article name](URL) Platform by Author (month, year)
 ## Translations
 Format: 
-[article name](URL) Platform by Author (month, year)
+[article name](URL) Platform by Author (month, year) flag - use flag emoji 
 ## International channels 
 list your twitter channel here
