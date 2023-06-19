@@ -1,19 +1,19 @@
 # Awesome-Hyperlane
 Community collection of tools, documents, articles, blog posts, interviews, and videos related to Hyperlane 
-# Overview of Hyperlane 
+## Overview of Hyperlane 
 
 ## Table of Contents 
-# Official channels 
-# Workshops & Talks
-# Beginner guides
-# Tutorials
-# Partnerships
-# Podcasts 
-# AMAs & Interviews
-# Translations
+- Official channels 
+- Workshops & Talks
+- Beginner guides
+- Tutorials
+- Partnerships
+- Podcasts 
+- AMAs & Interviews
+- Translations
 --------------
 
-# Official Channels
+## Official Channels
 [Website](https://www.hyperlane.xyz/)
 
 [Documentation](https://docs.hyperlane.xyz/)
@@ -22,26 +22,26 @@ Community collection of tools, documents, articles, blog posts, interviews, and 
 
 [Discord](https://discord.com/invite/hyperlane)
 
-# Workshops & Talks
+## Workshops & Talks
 Format: 
 [article name](URL) Platform by Author (month, year)
-# Beginner guides
+## Beginner guides
 Format: 
 [article name](URL) Platform by Author (month, year)
-# Tutorials
+## Tutorials
 Format: 
 [article name](URL) Platform by Author (month, year)
-# Partnerships
+## Partnerships
 Format: 
 [article name](URL) Platform by Author (month, year)
-# Podcasts 
+## Podcasts 
 Format: 
 [article name](URL) Platform by Author (month, year)
 # AMAs & Interviews
 Format: 
 [article name](URL) Platform by Author (month, year)
-# Translations
+## Translations
 Format: 
 [article name](URL) Platform by Author (month, year)
-# International channels 
+## International channels 
 list your twitter channel here
