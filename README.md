@@ -1,5 +1,5 @@
 # Awesome-Hyperlane
-Community collection of tools, documents, articles, blog posts, interviews, and videos related to Hyperlane 
+Community collection of tools, documents, articles, blog posts, interviews, and videos related to Hyperlane. This list is created 
 ## Overview of Hyperlane 
 
 ## Table of Contents 
