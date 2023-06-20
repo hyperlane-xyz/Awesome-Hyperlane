@@ -37,7 +37,7 @@ Format:
 ## Podcasts 
 Format: 
 [article name](URL) Platform by Author (month, year)
-# AMAs & Interviews
+## AMAs & Interviews
 Format: 
 [article name](URL) Platform by Author (month, year)
 ## Translations
