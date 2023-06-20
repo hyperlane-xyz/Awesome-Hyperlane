@@ -10,6 +10,7 @@ Community collection of tools, documents, articles, blog posts, interviews, and 
 - Partnerships
 - Podcasts 
 - AMAs & Interviews
+- Community Publications
 - Translations
 --------------
 
@@ -36,12 +37,18 @@ Format:
 [article name](URL) Platform by Author (month, year)
 ## Podcasts 
 Format: 
-[article name](URL) Platform by Author (month, year)
+[article title](URL) Platform by Author (month, year)
 ## AMAs & Interviews
 Format: 
-[article name](URL) Platform by Author (month, year)
+[article title](URL) Platform by Author (month, year)
+## Community Publications
+Format: 
+[article title](URL) Platform by Author (month, year)
 ## Translations
 Format: 
-[article name](URL) Platform by Author (month, year) flag - use flag emoji 
+[article title](URL) Platform by Author (month, year) flag - use flag emoji 
 ## International channels 
 list your twitter channel here
+[Hyperlane Africa](https://twitter.com/hyperlaneafrica) Twitter
+[Hyperlane Russia](https://twitter.com/Hyperlane_Ru) Twitter
+[Hyperlane Spain](https://twitter.com/HyperlaneEsp) Twitter
