@@ -49,6 +49,7 @@ Format:
 [article title](URL) Platform by Author (month, year) flag - use flag emoji 
 ## International channels 
 list your twitter channel here
-[Hyperlane Africa](https://twitter.com/hyperlaneafrica) Twitter
-[Hyperlane Russia](https://twitter.com/Hyperlane_Ru) Twitter
-[Hyperlane Spain](https://twitter.com/HyperlaneEsp) Twitter
+
+- [Hyperlane Africa](https://twitter.com/hyperlaneafrica) Twitter 
+- [Hyperlane Russia](https://twitter.com/Hyperlane_Ru) Twitter
+- [Hyperlane Spain](https://twitter.com/HyperlaneEsp) Twitter
