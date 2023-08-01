@@ -47,6 +47,8 @@ Format:
 ## Translations
 Format: 
 [article title](URL) Platform by Author (month, year) flag - use flag emoji 
+(https://medium.com/@zemcugovs130820000/8749ce03b067) Medium by SJ21 (July, 13 2023) 🇷🇺
+(https://medium.com/@zemcugovs130820000/a7f33cbf4f31) Medium by SJ21 (July, 13 2023) 🇺🇦
 ## International channels 
 list your twitter channel here
 
