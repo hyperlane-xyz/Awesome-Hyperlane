@@ -47,6 +47,8 @@ Format:
 ## Translations
 Format: 
 [article title](URL) Platform by Author (month, year) flag - use flag emoji 
+
+[Представляємо вашій увазі Hyperlane V2] (https://link.medium.com/SvtQjSwZUBb) | moodman | (05.2023) 🇺🇦
 ## International channels 
 list your twitter channel here
 
