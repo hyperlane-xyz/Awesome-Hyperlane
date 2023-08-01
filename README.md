@@ -41,18 +41,20 @@ Format:
 ## AMAs & Interviews
 Format: 
 [article title](URL) Platform by Author (month, year)
-## Community Publications
-Format: 
-[article title](URL) Platform by Author (month, year)
-## Translations
-Format: 
-[article title](URL) Platform by Author (month, year) flag - use flag emoji 
 
-[Hyperlane Brings Out-of-the-Box Interoperability to the Celestia Ecosystem](https://medium.com/hyperlane-esp/hyperlane-aporta-interoperabilidad-inmediata-al-ecosistema-celestia-5a890d9116e8). Cumulo (04.05.2023) :es:
+## Community Publications
+Articles about Hyperlane by the Community
+[InterchainDAO with Hyperlane](https://medium.com/@armanityours/interchain-dao-with-hyperlane-adf3a2db5f6) Medium by Arman Aurobindo (July, 5 2023)
+
+## Translations
+Format: [article title](URL) Platform by Author (month, year) flag - use flag emoji 
+
+[Hyperlane aporta interoperabilidad inmediata al ecosistema Celestia](https://medium.com/hyperlane-esp/hyperlane-aporta-interoperabilidad-inmediata-al-ecosistema-celestia-5a890d9116e8) Medium by Cumulo (June, 4 2023) 🇪🇸 
+[Представляємо вашій увазі Hyperlane V2](https://link.medium.com/SvtQjSwZUBb) Medium by moodman (May, 31 2023) 🇺🇦
+[Подключайте Cosmos в любом месте: Внедрение Hyperlane в Cosmos](https://medium.com/@zemcugovs130820000/8749ce03b067) Medium by SJ21 (July, 13 2023) 🇷🇺
+[Підключіть Cosmos будь-де: Знайомство Hyperlane з Cosmos](https://medium.com/@zemcugovs130820000/a7f33cbf4f31) Medium by SJ21 (July, 13 2023) 🇺🇦
 
 ## International channels 
-list your twitter channel here
-
 - [Hyperlane Africa](https://twitter.com/hyperlaneafrica) Twitter 
 - [Hyperlane Russia](https://twitter.com/Hyperlane_Ru) Twitter
 - [Hyperlane Spain](https://twitter.com/HyperlaneEsp) Twitter
