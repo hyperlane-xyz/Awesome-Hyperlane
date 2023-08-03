@@ -35,7 +35,7 @@ https://medium.com/hyperlane/hyperlane-reimagined-bdc141e4feca Medium by Nosleep
 https://medium.com/hyperlane/exploring-hyperlane-use-cases-e2b8153dcb1d Medium by NosleepJon (Jan, 02 2023) 
 https://medium.com/hyperlane/permissionless-interoperability-3ae02fc162de Medium by NosleepJon (Feb, 07 2023)
 https://medium.com/hyperlane/introducing-hyperlane-v2-ecaeca0b8b1 Medium by NosleepJon (Jan, 16 2023) 
-https://medium.com/hyperlane/the-interchain-highway-cf21bb9790aa Mwdium by NosleepJon (Sept, 16 2022) 
+https://medium.com/hyperlane/the-interchain-highway-cf21bb9790aa Medium by NosleepJon (Sept, 16 2022) 
 ## Tutorials
 Format: 
 [article name](URL) Platform by Author (month, year)
