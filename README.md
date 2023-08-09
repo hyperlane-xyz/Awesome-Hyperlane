@@ -50,8 +50,6 @@ Format:
 
 [Warp Routes Walkthrough](https://medium.com/hyperlane/warp-routes-walkthrough-e963b36df8fe) Medium by Anett (Feb,17 2023)
 
-Format: 
-[article name](URL) Platform by Author (month, year)
 ## Partnerships
 Format: 
 [article name](URL) Platform by Author (month, year)
