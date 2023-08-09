@@ -90,7 +90,9 @@ Articles about Hyperlane by the Community
 Format: [article title](URL) Platform by Author (month, year) flag - use flag emoji
 
 [[Вклад сообщества] Межцепочечные DAO с Hyperlane + Tally](https://medium.com/@zemcugovs130820000/171970744d4a) Medium by SJ21 (August, 03 2023) 🇷🇺
+
 [Анонс Khalani: универсальный протокол ликвидности на базе Hyperlane](https://medium.com/@zemcugovs130820000/4661da88125b) Medium by SJ21 (August, 03 2023) 🇷🇺
+
 [Hyperlane aporta interoperabilidad inmediata al ecosistema Celestia](https://medium.com/hyperlane-esp/hyperlane-aporta-interoperabilidad-inmediata-al-ecosistema-celestia-5a890d9116e8) Medium by Cumulo (June, 4 2023) 🇪🇸 
 
 [Представляємо вашій увазі Hyperlane V2](https://link.medium.com/SvtQjSwZUBb) Medium by moodman (May, 31 2023) 🇺🇦
