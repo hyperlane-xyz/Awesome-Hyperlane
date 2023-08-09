@@ -8,8 +8,7 @@ Community collection of tools, documents, articles, blog posts, interviews, and 
 - Beginner guides
 - Tutorials
 - Partnerships
-- Podcasts 
-- AMAs & Interviews
+- Podcasts, AMAs, Interviews
 - Community Publications
 - Translations
 --------------
@@ -73,15 +72,11 @@ Format:
 
 [Hyperlane expands to SolanaVM in collaboration with Eclipse](https://medium.com/hyperlane/hyperlane-expands-to-solana-vm-in-collaboration-with-eclipse-8465616fd0e4) Medium by NosleepJon (May, 23 2023) 
 
-## Podcasts 
+## Podcasts, AMAs, Interviews
 
 [Hyperlane, Modular Interoperability & The Interchain Highway](https://www.youtube.com/watch?v=_ImBvpj6XT8&ab_channel=CosmosClub) Jun, 2023
 
 [Permissionless and modular interoperability | Jon, Hyperlane (Celestia spotlight #6)](https://www.youtube.com/watch?v=2PqBykb3oBE&ab_channel=Celestia) Jun,2023
-
-## AMAs & Interviews
-Format: 
-[article title](URL) Platform by Author (month, year)
 
 ## Community Publications
 Articles about Hyperlane by the Community
