@@ -46,7 +46,9 @@ Community collection of tools, documents, articles, blog posts, interviews, and 
 ## Beginner guides
 Format: 
 [article name](URL) Platform by Author (month, year)
+
 [Introducing Warp Routes](https://medium.com/hyperlane/introducing-warp-routes-d195416e5e90) Medium by NosleepJon (Feb, 16 2023) 
+
 [Warp Routes Walkthrough](https://medium.com/hyperlane/warp-routes-walkthrough-e963b36df8fe) Medium by Anett (Feb,17 2023)
 
 Format: 
