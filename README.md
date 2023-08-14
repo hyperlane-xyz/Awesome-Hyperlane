@@ -90,6 +90,8 @@ Format: [article title](URL) Platform by Author (month, year) flag - use flag em
 
 [Анонс Khalani: универсальный протокол ликвидности на базе Hyperlane](https://medium.com/@zemcugovs130820000/4661da88125b) Medium by SJ21 (August, 03 2023) 🇷🇺
 
+[Anuncio Khalani: El Protocolo Universal de Liquidez Desarrollado por Hyperlane](https://medium.com/hyperlane-esp/anuncio-khalani-el-protocolo-universal-de-liquidez-desarrollado-por-hyperlane-cb6eb8a1b414) Medium by Cumulo (August, 14 2023) 🇪🇸
+
 [Hyperlane aporta interoperabilidad inmediata al ecosistema Celestia](https://medium.com/hyperlane-esp/hyperlane-aporta-interoperabilidad-inmediata-al-ecosistema-celestia-5a890d9116e8) Medium by Cumulo (June, 4 2023) 🇪🇸 
 
 [¿Cómo de Permissionless es tu Proveedor de Interoperabilidad?](https://medium.com/hyperlane-esp/checklist-c%C3%B3mo-de-permissionless-es-tu-proveedor-de-interoperabilidad-28bf47a40e1a) Medium by Cumulo (July, 1 2023) 🇪🇸
