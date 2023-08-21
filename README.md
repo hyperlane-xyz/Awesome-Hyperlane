@@ -81,6 +81,8 @@ Articles about Hyperlane by the Community
 
 [InterchainDAO with Hyperlane](https://medium.com/@armanityours/interchain-dao-with-hyperlane-adf3a2db5f6) Medium by Arman Aurobindo (July, 5 2023)
 
+[Hyperlane — Permissionless Interoperability Unleashed](https://nickvasilich.medium.com/hyperlane-permissionless-interoperability-unleashed-27e5ac4906dc) Medium by NickVasilich (Jun, 22 2023)
+
 ## Translations
 Translated articles by the Hyperlane community
 Format: [article title](URL) Platform by Author (month, year) flag - use flag emoji
