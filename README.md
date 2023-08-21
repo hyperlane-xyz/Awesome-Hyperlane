@@ -84,11 +84,11 @@ Articles about Hyperlane by the Community
 ## Translations
 Format: [article title](URL) Platform by Author (month, year) flag - use flag emoji
 
-[Hyperlane розширює підтримку бездозвільної сумісності для Fuel і майбутніх розгортань FuelVM] (https://link.medium.com/EHyAJXTVcCb) Medium by moodman  (May 22, 2023) 🇺🇦
+[Hyperlane розширює підтримку бездозвільної сумісності для Fuel і майбутніх розгортань FuelVM](https://link.medium.com/EHyAJXTVcCb) Medium by moodman (May 22, 2023) 🇺🇦
 
 [[Вклад сообщества] Межцепочечные DAO с Hyperlane + Tally](https://medium.com/@zemcugovs130820000/171970744d4a) Medium by SJ21 (August, 03 2023) 🇷🇺
 
-[Анонс Khalani: универсальный протокол ликвидности на базе Hyperlane](https://medium.com/@zemcugovs130820000/4661da88125b) Medium by SJ21 (August, 03 2023) 🇷🇺
+[Анонс Khalani: универсальный протокол ликвидности на базе Hyperlane(https://medium.com/@zemcugovs130820000/4661da88125b) Medium by SJ21 (August, 03 2023) 🇷🇺
 
 [Anuncio Khalani: El Protocolo Universal de Liquidez Desarrollado por Hyperlane](https://medium.com/hyperlane-esp/anuncio-khalani-el-protocolo-universal-de-liquidez-desarrollado-por-hyperlane-cb6eb8a1b414) Medium by Cumulo (August, 14 2023) 🇪🇸
 
