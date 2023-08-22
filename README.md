@@ -1,16 +1,24 @@
-# Awesome Hyperlane
+# Awesome Hyperlane [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Community collection of tools, tutorials, workshops, articles, blog posts, interviews, and videos related to Hyperlane.
+
+**Contributing:**
+Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/hyperlane-xyz/Awesome-Hyperlane/graphs/contributors).
+
 ## Overview of Hyperlane 
 
 ## Table of Contents 
-- Official channels 
-- Workshops & Talks
-- Beginner guides
-- Tutorials
-- Partnerships
-- Podcasts, AMAs, Interviews
-- Community Publications
-- Translations
+- [Awesome Hyperlane ](#awesome-hyperlane-)
+  - [Overview of Hyperlane](#overview-of-hyperlane)
+  - [Table of Contents](#table-of-contents)
+  - [Official Channels](#official-channels)
+  - [Workshops \& Talks](#workshops--talks)
+  - [Beginner guides](#beginner-guides)
+  - [Block Explorers](#block-explorers)
+  - [Partnerships](#partnerships)
+  - [Podcasts, AMAs, Interviews](#podcasts-amas-interviews)
+  - [Community Publications](#community-publications)
+  - [Translations](#translations)
+  - [International channels](#international-channels)
 --------------
 
 ## Official Channels
@@ -49,6 +57,9 @@ Format:
 [Introducing Warp Routes](https://medium.com/hyperlane/introducing-warp-routes-d195416e5e90) Medium by NosleepJon (Feb, 16 2023) 
 
 [Warp Routes Walkthrough](https://medium.com/hyperlane/warp-routes-walkthrough-e963b36df8fe) Medium by Anett (Feb,17 2023)
+
+## Block Explorers
+* [Official Hyperlane Explorer](https://explorer.hyperlane.xyz/?)
 
 ## Partnerships
 Format: 
