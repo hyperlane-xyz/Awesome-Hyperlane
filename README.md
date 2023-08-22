@@ -2,7 +2,7 @@
 Community collection of tools, tutorials, workshops, articles, blog posts, interviews, and videos related to Hyperlane.
 
 **Contributing:**
-Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/Ortege-xyz/awesome-hyperlane/graphs/contributors).
+Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/hyperlane-xyz/Awesome-Hyperlane/graphs/contributors).
 
 ## Overview of Hyperlane 
 
