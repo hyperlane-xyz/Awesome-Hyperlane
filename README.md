@@ -9,7 +9,6 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Table of Contents 
 - [Awesome Hyperlane ](#awesome-hyperlane-)
   - [Overview of Hyperlane](#overview-of-hyperlane)
-  - [Table of Contents](#table-of-contents)
   - [Official Channels](#official-channels)
   - [Workshops \& Talks](#workshops--talks)
   - [Beginner guides](#beginner-guides)
@@ -51,8 +50,6 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 
 ## Beginner guides
-Format: 
-[article name](URL) Platform by Author (month, year)
 
 [Introducing Warp Routes](https://medium.com/hyperlane/introducing-warp-routes-d195416e5e90) Medium by NosleepJon (Feb, 16 2023) 
 
@@ -62,8 +59,6 @@ Format:
 * [Official Hyperlane Explorer](https://explorer.hyperlane.xyz/?)
 
 ## Partnerships
-Format: 
-[article name](URL) Platform by Author (month, year)
 
 [Announcing Khalani the universal liquidity protocol powered by Hyperlane](https://medium.com/hyperlane/announcing-khalani-the-universal-liquidity-protocol-powered-by-hyperlane-4e811e2c042) Medium by NosleepJon (August, 02 2023) 
 
@@ -96,7 +91,6 @@ Articles about Hyperlane by the Community
 
 ## Translations
 Translated articles by the Hyperlane community
-Format: [article title](URL) Platform by Author (month, year) flag - use flag emoji
 
 [Hyperlane розширює підтримку бездозвільної сумісності для Fuel і майбутніх розгортань FuelVM](https://link.medium.com/EHyAJXTVcCb) Medium by moodman (May 22, 2023) 🇺🇦
 
@@ -119,6 +113,7 @@ Format: [article title](URL) Platform by Author (month, year) flag - use flag em
 [Підключіть Cosmos будь-де: Знайомство Hyperlane з Cosmos](https://medium.com/@zemcugovs130820000/a7f33cbf4f31) Medium by SJ21 (July, 13 2023) 🇺🇦
 
 ## International channels 
+International Twitter channels maintained by Hyperlane Pilot Academy members 
 - [Hyperlane Africa](https://twitter.com/hyperlaneafrica) Twitter 
 - [Hyperlane Russia](https://twitter.com/Hyperlane_Ru) Twitter
 - [Hyperlane Spain](https://twitter.com/HyperlaneEsp) Twitter
