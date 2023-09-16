@@ -92,6 +92,8 @@ Articles about Hyperlane by the Community
 ## Translations
 Translated articles by the Hyperlane community
 
+[Будівля з модульною системою безпеки Legos](https://link.medium.com/vVuphwv16Cb) Medium by moodman (Aug 10, 2023) 🇺🇦
+
 [Hyperlane розширює підтримку бездозвільної сумісності для Fuel і майбутніх розгортань FuelVM](https://link.medium.com/EHyAJXTVcCb) Medium by moodman (May 22, 2023) 🇺🇦
 
 [Вклад сообщества: Межцепочечные DAO с Hyperlane + Tally](https://medium.com/@zemcugovs130820000/171970744d4a) Medium by SJ21 (August, 03 2023) 🇷🇺
