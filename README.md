@@ -29,6 +29,8 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 [Discord](https://discord.com/invite/hyperlane)
 
+[Ecosystem](https://hyperlanexyz.notion.site/hyperlanexyz/Hyperlane-Ecosystem-1e6d8175baf44ed88502cfba91becc45)
+
 ## Workshops & Talks
 [Hyperlane 🛠️ Unleash the Superchain with permissionless interoperability - Nam Chu Hoai](https://www.youtube.com/watch?v=B50UPSpOZik&ab_channel=ETHGlobal) (Aug, 2023)
 
