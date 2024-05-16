@@ -115,6 +115,5 @@ Translated articles by the Hyperlane community
 ## International channels 
 International Twitter channels maintained by Hyperlane Pilot Academy members 
 - [Hyperlane Africa](https://twitter.com/hyperlaneafrica) Twitter 
-- [Hyperlane Russia](https://twitter.com/Hyperlane_Ru) Twitter
 - [Hyperlane Spain](https://twitter.com/HyperlaneEsp) Twitter
 - [Hyperlane Turkey](https://twitter.com/HyperlaneTurkey) Twitter
