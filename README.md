@@ -72,6 +72,8 @@ Translated articles by the Hyperlane community
 - [Подключайте Cosmos в любом месте: Внедрение Hyperlane в Cosmos](https://medium.com/@zemcugovs130820000/8749ce03b067) by SJ21 (July, 13 2023) 🇷🇺
 - [Підключіть Cosmos будь-де: Знайомство Hyperlane з Cosmos](https://medium.com/@zemcugovs130820000/a7f33cbf4f31) by SJ21 (July, 13 2023) 🇺🇦
 
+[Переводы статей Hyperlane от команды mms.team](https://mms.team/category/hyperlane-sdk/) mms.team by MMS (January, 04 2023 -- June 01 2023) 🇷🇺
+
 ## International channels 
 International Twitter channels maintained by Hyperlane Pilot Academy members 
 - [Hyperlane Africa](https://twitter.com/hyperlaneafrica) Twitter 
