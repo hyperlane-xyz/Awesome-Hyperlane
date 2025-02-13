@@ -53,8 +53,11 @@ Collection of tools, tutorials, workshops, articles, blog posts,and videos about
 - [Warp Routes Walkthrough](https://medium.com/hyperlane/warp-routes-walkthrough-e963b36df8fe) by Anett (Feb,17 2023)
 
 ## Community Publications
-Articles about Hyperlane by the Community
+### Guides  
+- [Ping Pong Example](https://docs.oasis.io/build/opl/hyperlane/pingpong-example/) by [Oasis](https://docs.oasis.io/)
+- [Deploying Hyperlane with Osmosis Testnet](https://github.com/many-things/cw-hyperlane/blob/main/DEPLOYMENT.md)
 
+### Articles 
 - [InterchainDAO with Hyperlane](https://medium.com/@armanityours/interchain-dao-with-hyperlane-adf3a2db5f6) Medium by Arman Aurobindo (July, 5 2023)
 - [Hyperlane — Permissionless Interoperability Unleashed](https://nickvasilich.medium.com/hyperlane-permissionless-interoperability-unleashed-27e5ac4906dc) Medium by NickVasilich (Jun, 22 2023)
 
